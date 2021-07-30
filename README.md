@@ -1,6 +1,6 @@
 # TP1-NLP
  #nltk --->
-     https://hub.gke2.mybinder.org/user/aoutman-ait-mbark-tp1-nlp-uwn581ob/notebooks/nltk%20.ipynb
+https://mybinder.org/v2/gh/Aoutman-ait-mbarK/TP1-NLP/main?filepath=nltk%20.ipynb
 
 
 #spacy --->
