@@ -1,8 +1,8 @@
 # TP1-NLP
  #nltk 
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aoutman-ait-mbarK/nltk/HEAD)
+https://hub.gke2.mybinder.org/user/aoutman-ait-mbark-tp1-nlp-uwn581ob/notebooks/nltk%20.ipynb
 #spacy
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aoutman-ait-mbarK/Spacy/HEAD)
+https://hub.gke2.mybinder.org/user/aoutman-ait-mbark-tp1-nlp-uwn581ob/notebooks/spacy.ipynb
 
 #
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aoutman-ait-mbarK/TP1-NLP/HEAD)
