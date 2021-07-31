@@ -4,7 +4,7 @@
 
 
 # SPACY
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aoutman-ait-mbarK/TP1-NLP/main?filepath=spacy.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aoutman-ait-mbarK/TP-NLP/main?filepath=spacy.ipynb)
 
 
 # Transformers tasks
