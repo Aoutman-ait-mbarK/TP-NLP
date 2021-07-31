@@ -8,6 +8,6 @@
 
 
 # Transformers tasks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aoutman-ait-mbarK/TP1-NLP/main?filepath=Transformers%20.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aoutman-ait-mbarK/TP-NLP/main?filepath=Transformers%20.ipynb)
 
 
